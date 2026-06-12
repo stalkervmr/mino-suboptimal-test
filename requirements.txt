@@ -1,0 +1,1 @@
+# No extra deps — base image includes the SDK + numpy/scipy/eth-abi/pydantic.
